@@ -1,1 +1,7 @@
+first one text file i am creating on remote server github 
+after that copy this file on local pc
+command git pull origin main
 
+now again i want to modification on this text file and then add commit then 
+
+again push on server
